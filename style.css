@@ -275,6 +275,15 @@ margin: 10px;
         padding: 0px 10px;
     }
 
+        .foto_interativa{
+        background: #1F2024;
+        
+    }
+
+    .banner{
+        height: 350px;   
+    }
+
     h1{
         margin-top: -80px;
         font-size: 1.5em;
@@ -320,10 +329,6 @@ margin: 10px;
     margin: 10px;
     
     }
-
-
-
-  /*Nav bar cell*/
 
   #check{
     display: none;
@@ -374,8 +379,6 @@ nav ul li a{
     align-items: center;
 }
 
-
-/* Card */
 .container .cards{
     display: flex;
     justify-content: center;
@@ -387,6 +390,11 @@ nav ul li a{
 .card{
     width: 350px;
     height: 600px;
+}
+
+.card2{
+    width: 350px;
+    height: 650px;
 }
 
 footer {
