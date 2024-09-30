@@ -2,10 +2,7 @@
 
 body {
     color: white;
-    /*Cor da Fonte*/
     background-color: rgb(65, 65, 65);
-    /*font-family: Arial, Helvetica, sans-serif;*/
-    /*Muda a fonte para arial*/
     font-family: "Open Sans", sans-serif;
     
 }
@@ -29,7 +26,7 @@ h3{
     background: url(img/fundofoto.jpg);
     background-size: cover;
     background-position: center;
-    background-attachment: fixed; /* Efeito de Texto fixado e imagem mexendo*/
+    background-attachment: fixed; 
     
 }
 
@@ -59,9 +56,7 @@ ul {
 
 a {
     color: white;
-    /*Coloca o link em branco*/
     text-decoration: none;
-    /*Tira a Decoracao do Link*/
 }
 
 header{
